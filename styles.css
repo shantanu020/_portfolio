@@ -647,8 +647,18 @@ footer{
         display: none;
     }
     .project-content{
-        scale:0.4;
+       align-self: center;
+       padding: 0px;
     }
-    
+    .project-heading{
+        font-size: 42px;
+    }
+    .project-subHeading{
+        width: 100%;
+    }
+    .project-skill-container{
+        max-width: 100%;
+        gap:5px;
+    }
 }
 
